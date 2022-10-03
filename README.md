@@ -1,1 +1,1 @@
-Update my first rREADME.md from github.com
+Update my first README.md from github.com
